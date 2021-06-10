@@ -12,7 +12,7 @@ I used this hardware:
 Result:
 ![Screenshot](/images/screenshot.jpg?raw=true)
 
-The first time you run the program, it is going to ask you to calibrate the touch screen (see picture below). It then stores the calibration data in EEPROM to skip calibration on next restarts. If you want to force recalibration, you can tie pin 5 to ground and restart the Arduino.
+The first time you run the program, it is going to ask you to calibrate the touch screen (see picture below). It then stores the calibration data in EEPROM to skip calibration on future restarts. If you want to force recalibration, you can tie pin 5 to ground and restart the Arduino.
 ![Calibration](/images/calibration.jpg?raw=true)
 
 What's behind:
