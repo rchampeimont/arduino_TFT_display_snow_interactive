@@ -8,3 +8,15 @@ I used this hardware:
 * Adafruit 7.0" 40-pin TFT Display - 800x480 with Touchscreen https://www.adafruit.com/product/2354
 * Arduino: I tested both Arduino Uno Rev3 and Arduino Wifi Rev2 (which is based on Atmega 4809)
 
+
+Result:
+![Screenshot](/images/screenshot.jpg?raw=true)
+
+The first time you run the program, it is going to ask you to calibrate the touch screen (picture below). It then stores the calibration data in EEPROM, so skip calibration on subsequent restarts. If you want to force recalibration, you can tie pin 5 to ground and restart the Arduino.
+![Calibration](/images/calibration.jpg?raw=true)
+
+What's behind:
+![Overview of circuit](/images/overview.jpg?raw=true)
+
+Schematic:
+![Schematic](/images/schematic.jpg?raw=true)
