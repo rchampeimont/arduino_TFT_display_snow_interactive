@@ -2,14 +2,6 @@
 #include "pins.h"
 #include "calibrate.h"
 
-
-
-// Where the touch vs display calibration data is stored.
-// I used the same as
-// https://github.com/adafruit/Adafruit_RA8875/blob/master/examples/ts_calibration/ts_calibration.ino
-// so that this program can be used to calibrate.
-#define EEPROMLOCATION 100
-
 // TFT Display resolution
 const int DISPLAY_WIDTH = 800;
 const int DISPLAY_HEIGHT = 480;
