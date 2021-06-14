@@ -8,6 +8,7 @@ I used this hardware:
 * Adafruit 7.0" 40-pin TFT Display - 800x480 with Touchscreen https://www.adafruit.com/product/2354
 * Arduino: I tested both Arduino Uno Rev3 and Arduino Wifi Rev2 (which is based on Atmega 4809)
 
+YouTube video showing the result: https://www.youtube.com/watch?v=W1X30Ba9tTY
 
 Result:
 ![Screenshot](/images/screenshot.jpg?raw=true)
