@@ -49,7 +49,7 @@ void setup() {
 
   tft.fillScreen(RA8875_GREEN);
   tft.textMode();
-  const char msg[] = "Copyright (c) 2021 Raphael Champeimont";
+  const char msg[] = "Copyright (c) 2021 River Champeimont";
   tft.textSetCursor(0, 0);
   tft.textColor(RA8875_BLACK, RA8875_GREEN);
   tft.textWrite(msg, sizeof(msg) - 1);

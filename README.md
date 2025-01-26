@@ -1,7 +1,7 @@
 # arduino_TFT_display_snow_interactive
 An interactive snow animation on a touch screen driven by an Arduino.
 
-It is a touch screen interactive variant of https://github.com/raphaelchampeimont/arduino_TFT_display_snow.
+It is a touch screen interactive variant of https://github.com/rchampeimont/arduino_TFT_display_snow.
 
 I used this hardware:
 * Adafruit RA8875 https://www.adafruit.com/product/1590
